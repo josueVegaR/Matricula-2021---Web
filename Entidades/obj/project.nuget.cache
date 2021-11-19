@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "chh7f2zJcoe90YJKJo7UhWsNSU6Ym3k74eS77he5btzAe3qFT9bDA+dtJZWMzsMn7GxPBXJi+wmUoHBP6sDkFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Proyectos C#\\Proyecto Sistema Matrícula - Web\\ProyectoMatricula-main\\Entidades\\Entidades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jvega\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jvega\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

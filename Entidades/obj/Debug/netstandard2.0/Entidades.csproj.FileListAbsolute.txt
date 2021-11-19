@@ -1,0 +1,33 @@
+C:\Proyectos C#\Proyecto - Josué Vega\MatriculaEstudiantil\Entidades\bin\Debug\netstandard2.0\Entidades.deps.json
+C:\Proyectos C#\Proyecto - Josué Vega\MatriculaEstudiantil\Entidades\bin\Debug\netstandard2.0\Entidades.dll
+C:\Proyectos C#\Proyecto - Josué Vega\MatriculaEstudiantil\Entidades\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Proyectos C#\Proyecto - Josué Vega\MatriculaEstudiantil\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+C:\Proyectos C#\Proyecto - Josué Vega\MatriculaEstudiantil\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
+C:\Proyectos C#\Proyecto - Josué Vega\MatriculaEstudiantil\Entidades\obj\Debug\netstandard2.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Proyectos C#\Proyecto - Josué Vega\MatriculaEstudiantil\Entidades\obj\Debug\netstandard2.0\Entidades.dll
+C:\Proyectos C#\Proyecto - Josué Vega\MatriculaEstudiantil\Entidades\obj\Debug\netstandard2.0\Entidades.pdb
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Entidades\bin\Debug\netstandard2.0\Entidades.deps.json
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Entidades\bin\Debug\netstandard2.0\Entidades.dll
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Entidades\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Entidades\obj\Debug\netstandard2.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Entidades\obj\Debug\netstandard2.0\Entidades.dll
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Entidades\obj\Debug\netstandard2.0\Entidades.pdb
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Entidades\bin\Debug\netstandard2.0\Entidades.deps.json
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Entidades\bin\Debug\netstandard2.0\Entidades.dll
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Entidades\bin\Debug\netstandard2.0\Entidades.pdb
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Entidades\obj\Debug\netstandard2.0\Entidades.csprojAssemblyReference.cache
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Entidades\obj\Debug\netstandard2.0\Entidades.csproj.CoreCompileInputs.cache
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Entidades\obj\Debug\netstandard2.0\Entidades.dll
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Entidades\obj\Debug\netstandard2.0\Entidades.pdb
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\Entidades\bin\Debug\netstandard2.0\Entidades.deps.json
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\Entidades\bin\Debug\netstandard2.0\Entidades.dll
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\Entidades\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\Entidades\obj\Debug\netstandard2.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\Entidades\obj\Debug\netstandard2.0\Entidades.dll
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\Entidades\obj\Debug\netstandard2.0\Entidades.pdb

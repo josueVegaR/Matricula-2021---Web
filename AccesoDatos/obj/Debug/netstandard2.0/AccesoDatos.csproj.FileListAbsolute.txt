@@ -1,0 +1,48 @@
+C:\Proyectos C#\Proyecto - Josué Vega\MatriculaEstudiantil\AccesoDatos\bin\Debug\netstandard2.0\AccesoDatos.deps.json
+C:\Proyectos C#\Proyecto - Josué Vega\MatriculaEstudiantil\AccesoDatos\bin\Debug\netstandard2.0\AccesoDatos.dll
+C:\Proyectos C#\Proyecto - Josué Vega\MatriculaEstudiantil\AccesoDatos\bin\Debug\netstandard2.0\AccesoDatos.pdb
+C:\Proyectos C#\Proyecto - Josué Vega\MatriculaEstudiantil\AccesoDatos\bin\Debug\netstandard2.0\Entidades.dll
+C:\Proyectos C#\Proyecto - Josué Vega\MatriculaEstudiantil\AccesoDatos\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Proyectos C#\Proyecto - Josué Vega\MatriculaEstudiantil\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.csprojAssemblyReference.cache
+C:\Proyectos C#\Proyecto - Josué Vega\MatriculaEstudiantil\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Proyectos C#\Proyecto - Josué Vega\MatriculaEstudiantil\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.AssemblyInfo.cs
+C:\Proyectos C#\Proyecto - Josué Vega\MatriculaEstudiantil\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Proyectos C#\Proyecto - Josué Vega\MatriculaEstudiantil\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.csproj.CopyComplete
+C:\Proyectos C#\Proyecto - Josué Vega\MatriculaEstudiantil\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.dll
+C:\Proyectos C#\Proyecto - Josué Vega\MatriculaEstudiantil\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.pdb
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\AccesoDatos\bin\Debug\netstandard2.0\AccesoDatos.deps.json
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\AccesoDatos\bin\Debug\netstandard2.0\AccesoDatos.dll
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\AccesoDatos\bin\Debug\netstandard2.0\AccesoDatos.pdb
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\AccesoDatos\bin\Debug\netstandard2.0\Entidades.dll
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\AccesoDatos\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.csprojAssemblyReference.cache
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.AssemblyInfo.cs
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.csproj.CopyComplete
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.dll
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.pdb
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\AccesoDatos\bin\Debug\netstandard2.0\AccesoDatos.deps.json
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\AccesoDatos\bin\Debug\netstandard2.0\AccesoDatos.dll
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\AccesoDatos\bin\Debug\netstandard2.0\AccesoDatos.pdb
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\AccesoDatos\bin\Debug\netstandard2.0\Entidades.dll
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\AccesoDatos\bin\Debug\netstandard2.0\Entidades.pdb
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.csprojAssemblyReference.cache
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.AssemblyInfoInputs.cache
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.AssemblyInfo.cs
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.csproj.CoreCompileInputs.cache
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.csproj.CopyComplete
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.dll
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.pdb
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\AccesoDatos\bin\Debug\netstandard2.0\AccesoDatos.deps.json
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\AccesoDatos\bin\Debug\netstandard2.0\AccesoDatos.dll
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\AccesoDatos\bin\Debug\netstandard2.0\AccesoDatos.pdb
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\AccesoDatos\bin\Debug\netstandard2.0\Entidades.dll
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\AccesoDatos\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.csprojAssemblyReference.cache
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.AssemblyInfo.cs
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.csproj.CopyComplete
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.dll
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.pdb

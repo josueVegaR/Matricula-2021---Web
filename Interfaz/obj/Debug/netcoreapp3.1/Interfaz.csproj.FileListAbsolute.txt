@@ -1,0 +1,102 @@
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\bin\Debug\netcoreapp3.1\Interfaz.exe
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\bin\Debug\netcoreapp3.1\Interfaz.deps.json
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\bin\Debug\netcoreapp3.1\Interfaz.runtimeconfig.json
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\bin\Debug\netcoreapp3.1\Interfaz.runtimeconfig.dev.json
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\bin\Debug\netcoreapp3.1\Interfaz.dll
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\bin\Debug\netcoreapp3.1\Interfaz.pdb
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\bin\Debug\netcoreapp3.1\AccesoDatos.dll
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\bin\Debug\netcoreapp3.1\LogicaNegocio.dll
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\bin\Debug\netcoreapp3.1\LogicaNegocio.pdb
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\bin\Debug\netcoreapp3.1\AccesoDatos.pdb
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.csprojAssemblyReference.cache
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.frmAperturaCursos.resources
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.frmBuscarAula.resources
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.frmBuscarMateria.resources
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.frmBuscarProfesor.resources
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.frmMenu.resources
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.csproj.GenerateResource.cache
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.AssemblyInfoInputs.cache
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.AssemblyInfo.cs
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.csproj.CoreCompileInputs.cache
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.csproj.CopyComplete
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.dll
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.pdb
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.genruntimeconfig.cache
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\bin\Debug\netcoreapp3.1\Interfaz.exe
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\bin\Debug\netcoreapp3.1\Interfaz.deps.json
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\bin\Debug\netcoreapp3.1\Interfaz.runtimeconfig.json
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\bin\Debug\netcoreapp3.1\Interfaz.runtimeconfig.dev.json
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\bin\Debug\netcoreapp3.1\Interfaz.dll
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\bin\Debug\netcoreapp3.1\Interfaz.pdb
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\bin\Debug\netcoreapp3.1\AccesoDatos.dll
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\bin\Debug\netcoreapp3.1\Entidades.dll
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\bin\Debug\netcoreapp3.1\LogicaNegocio.dll
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\bin\Debug\netcoreapp3.1\Entidades.pdb
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\bin\Debug\netcoreapp3.1\LogicaNegocio.pdb
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\bin\Debug\netcoreapp3.1\AccesoDatos.pdb
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.csprojAssemblyReference.cache
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.frmAperturaCursos.resources
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.frmBuscarAula.resources
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.frmBuscarMateria.resources
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.frmBuscarProfesor.resources
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.frmMenu.resources
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.csproj.GenerateResource.cache
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.AssemblyInfoInputs.cache
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.AssemblyInfo.cs
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.csproj.CoreCompileInputs.cache
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.csproj.CopyComplete
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.dll
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.pdb
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.genruntimeconfig.cache
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\Interfaz\bin\Debug\netcoreapp3.1\Interfaz.exe
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\Interfaz\bin\Debug\netcoreapp3.1\Interfaz.deps.json
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\Interfaz\bin\Debug\netcoreapp3.1\Interfaz.runtimeconfig.json
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\Interfaz\bin\Debug\netcoreapp3.1\Interfaz.runtimeconfig.dev.json
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\Interfaz\bin\Debug\netcoreapp3.1\Interfaz.dll
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\Interfaz\bin\Debug\netcoreapp3.1\Interfaz.pdb
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\Interfaz\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\Interfaz\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\Interfaz\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\Interfaz\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\Interfaz\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\Interfaz\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\Interfaz\bin\Debug\netcoreapp3.1\AccesoDatos.dll
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\Interfaz\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\Interfaz\bin\Debug\netcoreapp3.1\LogicaNegocio.dll
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\Interfaz\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\Interfaz\bin\Debug\netcoreapp3.1\LogicaNegocio.pdb
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\Interfaz\bin\Debug\netcoreapp3.1\AccesoDatos.pdb
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.csprojAssemblyReference.cache
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.frmAperturaCursos.resources
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.frmBuscarAula.resources
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.frmBuscarMateria.resources
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.frmBuscarProfesor.resources
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.frmCrearEstudiante.resources
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.frmCrearProfesor.resources
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.frmMateriasAbiertas.resources
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.frmMenu.resources
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.frmVerEstudiantes.resources
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.frmVerProfesores.resources
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.Properties.Resources.resources
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.csproj.GenerateResource.cache
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.AssemblyInfoInputs.cache
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.AssemblyInfo.cs
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.csproj.CoreCompileInputs.cache
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.csproj.CopyComplete
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.dll
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.pdb
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.genruntimeconfig.cache

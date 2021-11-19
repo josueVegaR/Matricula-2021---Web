@@ -1,0 +1,56 @@
+C:\Proyectos C#\Proyecto - Josué Vega\MatriculaEstudiantil\LogicaMatricula\bin\Debug\netstandard2.0\LogicaNegocio.deps.json
+C:\Proyectos C#\Proyecto - Josué Vega\MatriculaEstudiantil\LogicaMatricula\bin\Debug\netstandard2.0\LogicaNegocio.dll
+C:\Proyectos C#\Proyecto - Josué Vega\MatriculaEstudiantil\LogicaMatricula\bin\Debug\netstandard2.0\LogicaNegocio.pdb
+C:\Proyectos C#\Proyecto - Josué Vega\MatriculaEstudiantil\LogicaMatricula\bin\Debug\netstandard2.0\AccesoDatos.dll
+C:\Proyectos C#\Proyecto - Josué Vega\MatriculaEstudiantil\LogicaMatricula\bin\Debug\netstandard2.0\Entidades.dll
+C:\Proyectos C#\Proyecto - Josué Vega\MatriculaEstudiantil\LogicaMatricula\bin\Debug\netstandard2.0\AccesoDatos.pdb
+C:\Proyectos C#\Proyecto - Josué Vega\MatriculaEstudiantil\LogicaMatricula\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Proyectos C#\Proyecto - Josué Vega\MatriculaEstudiantil\LogicaMatricula\obj\Debug\netstandard2.0\LogicaNegocio.csprojAssemblyReference.cache
+C:\Proyectos C#\Proyecto - Josué Vega\MatriculaEstudiantil\LogicaMatricula\obj\Debug\netstandard2.0\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Proyectos C#\Proyecto - Josué Vega\MatriculaEstudiantil\LogicaMatricula\obj\Debug\netstandard2.0\LogicaNegocio.AssemblyInfo.cs
+C:\Proyectos C#\Proyecto - Josué Vega\MatriculaEstudiantil\LogicaMatricula\obj\Debug\netstandard2.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Proyectos C#\Proyecto - Josué Vega\MatriculaEstudiantil\LogicaMatricula\obj\Debug\netstandard2.0\LogicaNegocio.csproj.CopyComplete
+C:\Proyectos C#\Proyecto - Josué Vega\MatriculaEstudiantil\LogicaMatricula\obj\Debug\netstandard2.0\LogicaNegocio.dll
+C:\Proyectos C#\Proyecto - Josué Vega\MatriculaEstudiantil\LogicaMatricula\obj\Debug\netstandard2.0\LogicaNegocio.pdb
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\LogicaMatricula\bin\Debug\netstandard2.0\LogicaNegocio.deps.json
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\LogicaMatricula\bin\Debug\netstandard2.0\LogicaNegocio.dll
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\LogicaMatricula\bin\Debug\netstandard2.0\LogicaNegocio.pdb
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\LogicaMatricula\bin\Debug\netstandard2.0\AccesoDatos.dll
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\LogicaMatricula\bin\Debug\netstandard2.0\Entidades.dll
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\LogicaMatricula\bin\Debug\netstandard2.0\AccesoDatos.pdb
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\LogicaMatricula\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\LogicaMatricula\obj\Debug\netstandard2.0\LogicaNegocio.csprojAssemblyReference.cache
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\LogicaMatricula\obj\Debug\netstandard2.0\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\LogicaMatricula\obj\Debug\netstandard2.0\LogicaNegocio.AssemblyInfo.cs
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\LogicaMatricula\obj\Debug\netstandard2.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\LogicaMatricula\obj\Debug\netstandard2.0\LogicaNegocio.csproj.CopyComplete
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\LogicaMatricula\obj\Debug\netstandard2.0\LogicaNegocio.dll
+C:\Proyectos C#\Proyecto Fase 2 - Josué Vega\SistemaMatricula\LogicaMatricula\obj\Debug\netstandard2.0\LogicaNegocio.pdb
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\LogicaMatricula\bin\Debug\netstandard2.0\LogicaNegocio.deps.json
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\LogicaMatricula\bin\Debug\netstandard2.0\LogicaNegocio.dll
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\LogicaMatricula\bin\Debug\netstandard2.0\LogicaNegocio.pdb
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\LogicaMatricula\bin\Debug\netstandard2.0\AccesoDatos.dll
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\LogicaMatricula\bin\Debug\netstandard2.0\Entidades.dll
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\LogicaMatricula\bin\Debug\netstandard2.0\AccesoDatos.pdb
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\LogicaMatricula\bin\Debug\netstandard2.0\Entidades.pdb
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\LogicaMatricula\obj\Debug\netstandard2.0\LogicaNegocio.csprojAssemblyReference.cache
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\LogicaMatricula\obj\Debug\netstandard2.0\LogicaNegocio.AssemblyInfoInputs.cache
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\LogicaMatricula\obj\Debug\netstandard2.0\LogicaNegocio.AssemblyInfo.cs
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\LogicaMatricula\obj\Debug\netstandard2.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\LogicaMatricula\obj\Debug\netstandard2.0\LogicaNegocio.csproj.CopyComplete
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\LogicaMatricula\obj\Debug\netstandard2.0\LogicaNegocio.dll
+B:\ProyectosJosueVega\Proyecto Fase 2 - Josué Vega\SistemaMatricula\LogicaMatricula\obj\Debug\netstandard2.0\LogicaNegocio.pdb
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\LogicaMatricula\bin\Debug\netstandard2.0\LogicaNegocio.deps.json
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\LogicaMatricula\bin\Debug\netstandard2.0\LogicaNegocio.dll
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\LogicaMatricula\bin\Debug\netstandard2.0\LogicaNegocio.pdb
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\LogicaMatricula\bin\Debug\netstandard2.0\AccesoDatos.dll
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\LogicaMatricula\bin\Debug\netstandard2.0\Entidades.dll
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\LogicaMatricula\bin\Debug\netstandard2.0\AccesoDatos.pdb
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\LogicaMatricula\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\LogicaMatricula\obj\Debug\netstandard2.0\LogicaNegocio.csprojAssemblyReference.cache
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\LogicaMatricula\obj\Debug\netstandard2.0\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\LogicaMatricula\obj\Debug\netstandard2.0\LogicaNegocio.AssemblyInfo.cs
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\LogicaMatricula\obj\Debug\netstandard2.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\LogicaMatricula\obj\Debug\netstandard2.0\LogicaNegocio.csproj.CopyComplete
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\LogicaMatricula\obj\Debug\netstandard2.0\LogicaNegocio.dll
+C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\LogicaMatricula\obj\Debug\netstandard2.0\LogicaNegocio.pdb
