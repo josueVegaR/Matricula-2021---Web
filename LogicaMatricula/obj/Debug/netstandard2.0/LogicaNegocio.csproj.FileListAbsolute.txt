@@ -54,3 +54,17 @@ C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\
 C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\LogicaMatricula\obj\Debug\netstandard2.0\LogicaNegocio.csproj.CopyComplete
 C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\LogicaMatricula\obj\Debug\netstandard2.0\LogicaNegocio.dll
 C:\Proyectos C#\Proyecto Sistema Matrícula - Josue Vega\ProyectoMatricula-main\LogicaMatricula\obj\Debug\netstandard2.0\LogicaNegocio.pdb
+C:\Proyectos C#\Proyecto Sistema Matrícula - Web\ProyectoMatricula-main\LogicaMatricula\bin\Debug\netstandard2.0\LogicaNegocio.deps.json
+C:\Proyectos C#\Proyecto Sistema Matrícula - Web\ProyectoMatricula-main\LogicaMatricula\bin\Debug\netstandard2.0\LogicaNegocio.dll
+C:\Proyectos C#\Proyecto Sistema Matrícula - Web\ProyectoMatricula-main\LogicaMatricula\bin\Debug\netstandard2.0\LogicaNegocio.pdb
+C:\Proyectos C#\Proyecto Sistema Matrícula - Web\ProyectoMatricula-main\LogicaMatricula\bin\Debug\netstandard2.0\AccesoDatos.dll
+C:\Proyectos C#\Proyecto Sistema Matrícula - Web\ProyectoMatricula-main\LogicaMatricula\bin\Debug\netstandard2.0\Entidades.dll
+C:\Proyectos C#\Proyecto Sistema Matrícula - Web\ProyectoMatricula-main\LogicaMatricula\bin\Debug\netstandard2.0\AccesoDatos.pdb
+C:\Proyectos C#\Proyecto Sistema Matrícula - Web\ProyectoMatricula-main\LogicaMatricula\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Proyectos C#\Proyecto Sistema Matrícula - Web\ProyectoMatricula-main\LogicaMatricula\obj\Debug\netstandard2.0\LogicaNegocio.csprojAssemblyReference.cache
+C:\Proyectos C#\Proyecto Sistema Matrícula - Web\ProyectoMatricula-main\LogicaMatricula\obj\Debug\netstandard2.0\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Proyectos C#\Proyecto Sistema Matrícula - Web\ProyectoMatricula-main\LogicaMatricula\obj\Debug\netstandard2.0\LogicaNegocio.AssemblyInfo.cs
+C:\Proyectos C#\Proyecto Sistema Matrícula - Web\ProyectoMatricula-main\LogicaMatricula\obj\Debug\netstandard2.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Proyectos C#\Proyecto Sistema Matrícula - Web\ProyectoMatricula-main\LogicaMatricula\obj\Debug\netstandard2.0\LogicaNegocio.csproj.CopyComplete
+C:\Proyectos C#\Proyecto Sistema Matrícula - Web\ProyectoMatricula-main\LogicaMatricula\obj\Debug\netstandard2.0\LogicaNegocio.dll
+C:\Proyectos C#\Proyecto Sistema Matrícula - Web\ProyectoMatricula-main\LogicaMatricula\obj\Debug\netstandard2.0\LogicaNegocio.pdb

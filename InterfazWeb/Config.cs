@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Configuration;
 
-namespace InterfazWeb.App_Code
+namespace InterfazWeb
 {
     public static class Configuracion
     {

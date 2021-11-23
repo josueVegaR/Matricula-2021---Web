@@ -41,6 +41,7 @@ namespace AccesoDatos
         //Métodos:
 
         //El tipo DataSet me permite guardar una tabla o el resultado de una consulta de las tablas de la BD:
+        //Modificado para la versión Web:
         public DataSet ListarMateriasCarreras(string condicion)
         {
             DataSet datos = new DataSet();
@@ -51,7 +52,7 @@ namespace AccesoDatos
             SqlDataAdapter adapter;
 
             //Sentencia:
-            string sentencia = "SELECT	MC.CodMateriaCarrera, MA.NombreMateria, CreditosMateria, NombreCarrera, ca.CodigoCarrera" +
+            string sentencia = "SELECT	MC.CodMateriaCarrera, MA.CodigoMateria, MA.NombreMateria, CreditosMateria, NombreCarrera" +
                 " FROM TBL_Materias MA INNER JOIN TBL_MateriasCarreras MC" +
                 " ON MA.CodigoMateria = MC.CodigoMateria" +
                 " inner join TBL_Carreras ca" +
@@ -73,6 +74,42 @@ namespace AccesoDatos
             }
             return datos;
         }
+
+        //Método para obtener un dataset y mostrarlo en un dataGrid de ASP:
+        //--> Versión web:
+        public DataSet CargarCursos(string condicion)
+        {
+            DataSet DS = new DataSet();
+            SqlConnection sqlConexion = new SqlConnection(_cadenaConexion);
+            SqlDataAdapter dataAdapter;
+            string sentencia = string.Empty;
+
+            try
+            {
+                sentencia = "SELECT	MC.CodMateriaCarrera, MA.CodigoMateria, MA.NombreMateria, CreditosMateria, NombreCarrera " +
+                 " FROM TBL_Materias MA INNER JOIN TBL_MateriasCarreras MC" +
+                 " ON MA.CodigoMateria = MC.CodigoMateria" +
+                 " inner join TBL_Carreras ca" +
+                 " on mc.CodigoCarrera = ca.CodigoCarrera";
+                if (!string.IsNullOrEmpty(condicion))
+                {
+                    sentencia = string.Format("{0} where {1}", sentencia, condicion);
+                }
+                dataAdapter = new SqlDataAdapter(sentencia, sqlConexion);
+                dataAdapter.Fill(DS, "Cursos");
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+            finally
+            {
+                sqlConexion.Dispose();
+
+            }
+             return DS;
+        }        
+
 
         
         public MateriasCarreras ObtenerMateriaCarrera(int codMateriaCarrera)

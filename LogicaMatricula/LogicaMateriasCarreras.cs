@@ -43,6 +43,22 @@ namespace LogicaNegocio
             return DS;
         }
 
+        public DataSet CargarCursos(string condicion)
+        {
+            DataSet DS;
+            ADMateriasCarreras AccesoDatos = new ADMateriasCarreras(_cadenaConexion);
+            try
+            {
+                DS = AccesoDatos.CargarCursos(condicion);
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+            return DS;
+        }
+
         public MateriasCarreras ObtenerMateriaCarrera(int codMateriaCarrera)
         {
             MateriasCarreras materiaCarrera;

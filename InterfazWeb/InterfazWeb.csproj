@@ -69,10 +69,11 @@
   <ItemGroup>
     <Content Include="Default.aspx" />
     <Content Include="frmAperturaCursos.aspx" />
+    <Content Include="JS\Funciones.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Code\Configuracion.cs" />
+    <Compile Include="Config.cs" />
     <Compile Include="Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -115,6 +116,9 @@
       <Project>{525e4e70-1629-4c88-a433-48e8e6e668eb}</Project>
       <Name>LogicaNegocio</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
