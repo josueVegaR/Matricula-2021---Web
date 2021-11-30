@@ -23,7 +23,7 @@
             <p>
                 <a class="nav-link active" aria-current="page" href="Default.aspx">
                     <i class="material-icons" style="font-size:18px;">school</i>
-                    UTC
+                     UTC
                 </a>
             </p>
         </li>
@@ -38,7 +38,7 @@
         <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Gestiones</a>
             <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="#">Nada por ahora</a></li>
+                <li><a class="dropdown-item" href="frmPeriodoYAnio.aspx">Seleccionar Periodo y Año</a></li>
                 <li><a class="dropdown-item" href="#">Nada por ahora</a></li>
             </ul>
         </li>
@@ -55,10 +55,10 @@
             </asp:ContentPlaceHolder>
         </div>
     </form>
-    <footer class="container">
-        <p>
-            Josué David Vega Robles - INA - &copy&Derechos Reservados.
-        </p>
+    <footer class="container mt-5 text-center">
+        <h6>
+            Josué David Vega Robles - INA 2021 &copyDerechos Reservados.
+        </h6>
     </footer>
 </body>
 </html>
