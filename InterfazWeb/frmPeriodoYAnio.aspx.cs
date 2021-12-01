@@ -51,6 +51,7 @@ namespace InterfazWeb
         {
             rvtxtAnio.MinimumValue = DateTime.Today.Year.ToString();
             rvtxtAnio.MaximumValue = (DateTime.Today.Year + 1).ToString();
+
         }
 
         protected void btnCancelar_Click(object sender, EventArgs e)
