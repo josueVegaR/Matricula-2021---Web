@@ -10,7 +10,7 @@
         </div>
         <div class="card-body text-center">
             <p>
-                Seleccione horarios adicionales para el curso abierto. De no seleccionar horarios adicionales, la materia se abrirá con el horario asignado en la ventana anterior.
+                Seleccione horarios adicionales para el curso abierto. De no seleccionar horarios adicionales, la materia se abrirá con el horario asignado en la ventana anterior. 
             </p>
         </div>
     </div>
